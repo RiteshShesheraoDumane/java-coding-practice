@@ -1,10 +1,10 @@
-//input copy 153=(1*1*1 + 5*5*5 + 3*3*3 = 153)
+//input 25
 import java.util.Scanner;
 class Demo
 {
-	boolean checkPerfectSquarNumber(int n)
+	boolean checkPerfectSquarNumber(int n)//23
 	{
-		return Math.sqrt(n)%1==0;
+		return Math.sqrt(n)%1==0;//5%1==0
 		
 	}
 	
